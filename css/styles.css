@@ -181,6 +181,7 @@ Section 3  ==========*/
   font-size: 16px;
   line-height: 1.62;
   letter-spacing: 0.03em;
+  cursor: pointer;
 }
 
 .guide-list:hover,
